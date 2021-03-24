@@ -26,5 +26,5 @@ Question 2:
  Find every position in an input string where a letter is succeeded by itself
  Please note that space is not a letter, each time a duplicated letter is found, write this letter plus it's position into the duplicate list
         
-   1. Example if data is "letter" position of t is 3 and value is tt 
+    1. Example if data is "letter" position of t is 3 and value is tt 
 
